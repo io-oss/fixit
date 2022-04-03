@@ -2,10 +2,10 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>/document/categories/</loc><lastmod>2022-04-03T03:01:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>/document/markdown%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</loc><lastmod>2022-04-03T03:01:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>/document/posts/</loc><lastmod>2022-04-03T03:01:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>/document/tags/</loc><lastmod>2022-04-03T03:01:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>/document/tags/test/</loc><lastmod>2022-04-03T03:01:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>/document/</loc><lastmod>2022-04-03T03:01:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>/document/categories/%E6%B5%8B%E8%AF%95/</loc><lastmod>2022-04-03T03:01:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+      <loc>https://io-oss.gitee.io/document/categories/</loc><lastmod>2022-04-03T03:01:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://io-oss.gitee.io/document/markdown%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</loc><lastmod>2022-04-03T03:01:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://io-oss.gitee.io/document/posts/</loc><lastmod>2022-04-03T03:01:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://io-oss.gitee.io/document/tags/</loc><lastmod>2022-04-03T03:01:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://io-oss.gitee.io/document/tags/test/</loc><lastmod>2022-04-03T03:01:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://io-oss.gitee.io/document/</loc><lastmod>2022-04-03T03:01:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>https://io-oss.gitee.io/document/categories/%E6%B5%8B%E8%AF%95/</loc><lastmod>2022-04-03T03:01:48&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
