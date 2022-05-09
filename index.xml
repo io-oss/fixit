@@ -4,15 +4,21 @@
     <link>https://io-oss.gitee.io/</link>
     <description>我在这里写一些说明文档</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>oblivion-u@outlook.com (海拉鲁大魔王)</managingEditor>
-      <webMaster>oblivion-u@outlook.com (海拉鲁大魔王)</webMaster><lastBuildDate>Fri, 22 Apr 2022 10:35:55 &#43;0800</lastBuildDate>
+      <webMaster>oblivion-u@outlook.com (海拉鲁大魔王)</webMaster><lastBuildDate>Mon, 09 May 2022 13:23:58 &#43;0800</lastBuildDate>
       <atom:link href="https://io-oss.gitee.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-  <title>Caddy占位符</title>
-  <link>https://io-oss.gitee.io/caddy%E5%8D%A0%E4%BD%8D%E7%AC%A6/</link>
-  <pubDate>Fri, 22 Apr 2022 10:35:55 &#43;0800</pubDate>
+  <title>Nativefier</title>
+  <link>https://io-oss.gitee.io/nativefier/</link>
+  <pubDate>Mon, 09 May 2022 13:23:58 &#43;0800</pubDate>
   <author>作者</author>
-  <guid>https://io-oss.gitee.io/caddy%E5%8D%A0%E4%BD%8D%E7%AC%A6/</guid>
-  <description><![CDATA[<h2 id="占位符">占位符</h2>
-<p>一些指令允许你在Caddyfile中使用占位符来为每个请求填写不同的值。例如，值{path}将被请求URL的路径部分替换。这些也被称为可替换值。</p>]]></description>
+  <guid>https://io-oss.gitee.io/nativefier/</guid>
+  <description><![CDATA[<p>找到了一个把网站转为本地APP的工具<code>nativefier</code>。</p>]]></description>
+</item><item>
+  <title>Markdown语法测试</title>
+  <link>https://io-oss.gitee.io/markdown%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</link>
+  <pubDate>Sun, 03 Apr 2022 03:01:48 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://io-oss.gitee.io/markdown%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</guid>
+  <description><![CDATA[<p>这篇文章提供了一些可用的 Markdown 语法示例以及一些效果展示。</p>]]></description>
 </item></channel>
 </rss>
