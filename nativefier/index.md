@@ -27,3 +27,8 @@ nativefier --name "MSDN" "https://docs.microsoft.com/zh-cn/"
 {{<admonition tip "注意">}}
 --name 参数用于指定生成应用的名称，但是如果是中文名，需要先生成应用，然后手动改名。
 {{</admonition>}}
+
+---
+
+> 作者: 海拉鲁大魔王  
+> https://io-oss.gitee.io/nativefier/
